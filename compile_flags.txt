@@ -1,0 +1,9 @@
+-ID:\Codeprojects\Codeprojects\Meme
+-Id:\MinGW\include\c++\11.2.0
+-Id:\MinGW\include\c++\11.2.0\x86_64-w64-mingw32
+-Id:\MinGW\include\c++\11.2.0\backward
+-Id:\MinGW\lib\gcc\x86_64-w64-mingw32\11.2.0\include
+-Id:\MinGW\lib\gcc\x86_64-w64-mingw32\11.2.0\include-fixed
+-Id:\MinGW\x86_64-w64-mingw32\include
+-target
+x86_64-w64-mingw32
